@@ -1,3 +1,4 @@
-var nums = 9
+var nums = 9;
 var snums = 10;
-console.log(nums + snums);
+var add = snums + nums;
+document.write(add);
